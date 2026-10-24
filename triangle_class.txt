@@ -1,0 +1,4 @@
+This is a triangle class
+	di
+	height
+	theta
